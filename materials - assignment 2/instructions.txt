@@ -1,0 +1,38 @@
+Part 1: Vim practice
+
+Your first task is to get some practice with vim. Use ssh to get onto the shell.cec.wustl.edu server. 
+Navigate to the /home/warehouse/dshook/cse237 directory (the same directory as the previous assignment). You'll see a new file in this directory called vimexercises.txt. 
+Make a copy of this file and put it into your directory (the same one that you created for the previous assignment). Make sure that you have read and write permissions on this file and that everyone else has read permissions on the file. 
+Open the copy of the file that you made in vim and follow the instructions.
+
+You might be asking yourself: how will it be possible to know if vim was used to complete this part of the assignment? The truth is that I will have no way of knowing. I am trusting you all to practice these skills and I hope that you see the value in doing so.
+
+Part 2: Script writing
+
+Recall that in the previous assignment you were tasked with searching a file for some data and placing that data into a file that you created. There are now many of these files that need to be checked for correctness. The good news is that we can use a script to complete this task!
+
+Instead of using the actual submissions, I have created an example data set for you to use. You can grab that dataset by unzipping the folder in the Assignment 2 Repository. Inside you will see the following: 
+1. A file called "237.csv" which contains a list of all of the students who are enrolled in this fictional version of the course
+2. A file called "237.txt" which is the file that these imaginary students were tasked with searching, just like the 237.txt file you searched on the previous assignment
+3. Directories created by (some) of the students with their answers
+4. A file called "exampleOutput.txt" which shows and example of what the output of your script should look like
+
+Notice that the example output includes a list of all students in the course along with a grade. The grades are given as follows:
+- A grade of "0" means that directory exists for this student 
+- A grade of "1" means that a directory for this student exists, but it does not contain a "password.txt" file
+- A grade of "2" means that the directory and the "password.txt" file both exist, but the contents of the "password.txt" file are incorrect
+- A grade of "3" means that everything exists and is correct
+
+Your task is to write a script called grader.sh that will grade these assignments and display the result.
+This script should accept the text file as an argument and the csv file through redirection. 
+
+Therefore, the command we might run to test your script could look something like:
+./grader.sh 237.txt < 237.csv
+
+Note that the above command assumes that all of the files (237.txt, 237.csv, and grader.sh) are in the same directory.
+
+Your output should look exactly like the example output that you have been given. 
+You should not output the results to a file, just use echo to print out the grade for each student (we can always use redirection if we want to put the results into a file). 
+Your script should work for any valid inputs it is given, which means that we could feed in another set of data, like perhaps the submissions from assignment 1, and your script should still work.
+
+Submit your script by uploading it to the assignment page on Canvas.
