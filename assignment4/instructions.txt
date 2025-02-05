@@ -1,0 +1,22 @@
+For this assignment, you will be tasked with writing a series of unit tests for a simple spell checker object. 
+Start by making a "spellcheck" branch on this repository and do your development work on this branch.
+
+Below is a list of things that the spellchecker should be able to do. 
+You should write unit tests to illustrate these desired behaviors. 
+You do not have to write any of the actual spellchecker code, though if you believe this will be helpful you are welcome to do so. The only thing that needs to be submitted and the only thing that will be graded for this assignment are the unit tests that you write.
+
+We wish for our spell checker to be able to do the following:
+
+- A spellchecker should be able to tell us how many words it currently knows about
+- The number of words a spellchecker knows about should go up by one whenever a new word is added
+- If a word is added that is already contained in the spellchecker, then the number of words contained in the spellchecker should not change
+- A spellchecker should be able to accept a properly spelled word and return an indication that it is properly spelled
+- A spellchecker should be able to accept an improperly spelled word and return an indication that it is improperly spelled
+- A spellchecker should ignore case when checking how words are spelled (i.e. "cat" and "CaT" are both properly spelled as long as "cat" (or "Cat" or "caT", etc.) appears in our spellchecker.
+- A spellchecker should be able to recommend a properly spelled word for any String that it is given. In other words, if I were to input the String "bamk", the spell checker could suggest that the word "bank" is properly spelled, meaning that the word "bank" is the alphabetically closest word in the spellchecker to the given String "bamk"
+- If we ask the spellchecker to suggest a properly spelled word for a String that is already properly spelled, it should simply return the original word.
+
+For each of the above bullet points there should be at least one unit test demonstrating the expected behavior. You are welcome to add any other methods or code that you need. This is not intended to be a comprehensive list of things that a spellchecker can do, merely a starting point.
+Feel free to add your own behaviors once you have finished the above list!
+
+To submit your work, merge the spellchecker branch of your repository into the main branch, then commit and push your work.
