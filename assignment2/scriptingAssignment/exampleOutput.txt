@@ -1,0 +1,14 @@
+batman: 3
+moana: 3
+groot: 1
+superman: 0
+black.panther: 3
+iron.man: 0
+luke.skywalker: 1
+han.solo: 3
+rick.sanchez: 2
+saul.goodman: 1
+billie.eilish: 1
+lil.nas.x: 0
+lizzo: 3
+trent.reznor: 3

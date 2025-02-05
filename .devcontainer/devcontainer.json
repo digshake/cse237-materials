@@ -11,6 +11,5 @@
       "installZsh": true
     }
   }, 
-  "postCreateCOmmand": "pip install pytest && sudo apt-get install -y junit4"
-
+ "postCreateCommand": "pip install pytest && apt-get update && apt-get install -y junit5"
   }
