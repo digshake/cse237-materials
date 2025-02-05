@@ -1,0 +1,12 @@
+Grep practice
+
+There's a file on Canvas called "addresses.txt"
+
+Download this file and navigate to the directory that contains that file on the command line.
+
+1. Pull the complete entries (Name, Phone Number, Address) of all the individuals who are from Illinois
+2. Pull the complete entries of all the individuals with the phone number with area code 772 (keep in
+mind area code needs to be the first three digits of the phone number).
+3. Count the number of people are from Kentucky using grep only (Do not manually count!)
+4. Pull the complete entries from anyone who is from North/South Carolina or Virginia using one grep
+command.

@@ -1,0 +1,7 @@
+Between you and your partner, choose one repository to use. Whoever owns the repository that you are using will have to add the other person. On the GitHub page for your repository go to Settings -> Manage Access -> Invite Collaborator. Search for your partner's account and add them. This will send an email invitation.
+
+Once you both have access to the repository, make sure you both have a clone of it on your computer. One of you should make a branch, add a new file, and commit and push. Once the push is complete, the other person should perform a pull. You should see the changes that were made by the other person.
+
+Take a look at the repository on GitHub. You should see the new branch that was created.
+
+Repeat this process in reverse, so the other person makes a file.

@@ -1,0 +1,7 @@
+Create a script that will do the following:
+
+1. Prompt the user to enter the name of a directory that they want to create
+2. Navigate into the directory that was created
+3. Print out the path to the directory that was created
+4. Returns to the original directory
+5. Deletes the directory that was created

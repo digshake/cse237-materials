@@ -1,0 +1,11 @@
+Download the exercise2.txt file and open it in vim
+
+1. Use the delete word command to remove the extra words from the sentence.
+
+2. Use the appropriate deletion command to remove the duplication at the end of the line.
+
+3. Use counts along with deletion to remove all of the CAPITALIZED words from the sentence.
+
+4. Use the remove line command to remove lines 2, 3, 6, and 8 to form a poem
+
+5. Try using the various undo commands to get the hang of them.

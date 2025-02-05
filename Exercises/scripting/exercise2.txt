@@ -1,0 +1,1 @@
+Write a script that will ask the user to type in 10 numbers. Your script should compute the sum of all numbers that are entered that are greater than 5.

@@ -1,0 +1,7 @@
+Add Prof. Shook's repository as an upstream repository.
+
+Do a pull from upstream. You should see a new file that was added to Prof. Shook's repo.
+
+Commit and push the changes that you pulled from upstream. You should now see them on your repository's page on GitHub.com.
+
+Create a pull request for the file that you created in exercise #1.

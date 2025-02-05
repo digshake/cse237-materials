@@ -1,0 +1,5 @@
+Login to GitHub and create a fork of the repository that Prof. Shook created.
+
+POST URL HERE
+
+Clone the fork that you made. Create a new file, add it, commit it, and push it. Check GitHub to verify that the new file exists.

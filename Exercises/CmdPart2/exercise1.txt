@@ -1,0 +1,6 @@
+Talk to a few of your neighbors. Get their names
+and put them into a file called "names".
+
+Then, print out the names in sorted order.
+
+Can you figure out how to sort the file in reverse order?

@@ -1,0 +1,3 @@
+Determine what command can be used to see all users logged in to the server.
+
+Can you write a single line that will print the number of users who are currently logged in? Hint: you'll need two commands.

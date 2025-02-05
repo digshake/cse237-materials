@@ -1,0 +1,8 @@
+Debug example1 via the command line:
+
+1. Compile the code
+2. Run the code (you should get an exception)
+3. Take note of the line reported by the exception.
+4. Start the java debugger. Set a breakpoint in main and step through the code.
+5. Once you get to the problematic line, use print to verify what you think the problem is.
+6. Fix the problem, recompile, and rerun the code.

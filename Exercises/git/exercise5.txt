@@ -1,0 +1,5 @@
+Using the same partner as before:
+
+1. One of you should go to the GitHub page for your repository and start a pull request for one of the branches that was created in a previous exercise.
+
+2. Both of you should examine the pull request that was created. Make some comments and decide on how you want to handle the request.

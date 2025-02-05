@@ -1,0 +1,9 @@
+Download and open the file exercise1.txt in vim
+
+1. Use the deletion command to fix the first line of text
+
+2. Use insertion to make the two lines match.
+
+3. Use the append command to make the two lines match.
+
+4. Save the file and quit vim. Reopen the file with vim to ensure that the changes were properly saved.

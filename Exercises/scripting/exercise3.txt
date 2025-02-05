@@ -1,0 +1,3 @@
+Write a script that iterates through a file and states whether each line in the file represents a file or a directory.
+
+To test your script, create a file using ls and then use this file with your script.

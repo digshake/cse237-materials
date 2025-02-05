@@ -1,0 +1,3 @@
+Locate where Java is installed on your computer. You can use the command line to poke around if you want, but feel free to Google a bit if you need to. The location will likely be different on different machines, especially Macs vs. PC.
+
+Use the command line to navigate to the bin folder within your Java installation. What permissions to the files in that folder have? What does that tell you about those files?

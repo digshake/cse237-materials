@@ -1,0 +1,14 @@
+1.
+Roses are red
+Violets are blue
+I really like vim
+Do you like it too?
+
+2. I waa very tired when I waz wrutung thip ssntenxe.
+2. I was very tired when I was writing this sentence.
+
+3. This lubw has a few words that need changing usf the change operator.
+3. This line has a few words that need changing using the change operator.
+
+4. The first time I wrote this sentence I got distracted.
+4. The first time I wrote this sentence I got distracted.

@@ -1,0 +1,9 @@
+Download the exercise3.txt file and open it in vim
+
+1. Use the delete line and put commands to reorder the lines and create a poem
+
+2. Use the replace command to fix the typos in the sentence so that the two lines match.
+
+3. Use the change word command to fix the words in the sentence so that the two lines match.
+
+4. Use the c$ command to change the end of the line so that the two lines match.

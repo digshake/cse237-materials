@@ -1,0 +1,11 @@
+Using the same partner as before:
+
+1. Make sure you are on the same branch, and that you have both pulled so that your repositories are up to date.
+
+2. You should both make a change to the same file. The file should now be different on each of your computers. Commit your change.
+
+3. One of you should push your change. 
+
+4. The other person should pull the change that was pushed. This will result in a conflict. Edit the file to reconcile the conflict, then commit and push the change.
+
+5. Pull the change so that both copies are once again the same.

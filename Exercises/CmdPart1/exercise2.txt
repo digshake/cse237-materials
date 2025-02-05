@@ -1,0 +1,13 @@
+Make a directory called "test"
+
+Within the test directory make directories called "first" and "second"
+
+Copy /bin/bash into "first"
+
+Copy another file of your choice into "second"
+
+Open the normal file browser on your computer (Finder on a mac). 
+Locate the test directory and examine the contents. 
+Does it match up with what you would expect?
+
+Remove all of the files and directories that you created.

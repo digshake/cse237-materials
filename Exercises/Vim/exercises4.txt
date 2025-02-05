@@ -1,0 +1,9 @@
+Using the Alice in Wonderland text:
+
+1. What happens on line 1572? Use the jump to line command, don't simply scroll to the line.
+
+2. On what line is the first mention made of the Cheshire Cat?
+
+3. Search for a () or [] and test out the % command.
+
+4. Cats are wonderful but some people like dogs better. Turn the Cheshire Cat into the Cheshire Dog by replacing all occurances of the word "Cat" (note that it is usually capitalized).
